@@ -1,0 +1,6 @@
+interface:
+  display_name: "TrackingDataDashboard"
+  short_description: "按用户规模、使用频率、功能行为梳理软件埋点需求，统一统计口径与图表规范"
+  default_prompt: "使用 $tracking-data-dashboard 为这个产品梳理埋点和看板需求，按用户规模、使用频率、功能行为输出。"
+policy:
+  allow_implicit_invocation: true
